@@ -10,7 +10,7 @@ As is the norm for many of these challenges, I am running this code out of my an
 
 During this project, my coding really started to improve as I used multiple functions at a time and munged the data in order to display the values in a comprehensive manner. I used Matplotlib to create graphs throughout the challenge that displayed the data in a much more readable format. Utilizing tools for accurate data visualization is one of the most important aspects of a Data Analyst's job duties. This project was helpful in exploring and mastering tools used in visualization.
 
-### Challenges faced
+### Challenges or Additional Opportunities
 
 The toughest part of this challenge was the very last visualization. Adjusting my syntax, calling the previous functions correctly, as well as mapping the tick funcitons were a little more complex than previous graphs. 
 
